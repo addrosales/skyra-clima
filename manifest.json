@@ -1,0 +1,26 @@
+{
+  "name": "SKYRA — Clima",
+  "short_name": "SKYRA",
+  "description": "Pronóstico del tiempo diario, semanal y mensual con tu ubicación exacta.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101726",
+  "theme_color": "#101726",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
